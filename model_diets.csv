@@ -1,0 +1,39 @@
+﻿type,identifier,Context,d13C,d15N,source,notes
+Animal Milk ,medieval dairy,modeled,-24.6,6.1,"Garvie-Lok 2001, pg. 338","modeled dairy value for Athens, used the bulk d13C value"
+Animal Milk ,raw goat milk whole ,modern,-26.2,3.9,"Garvie-Lok 2001, pg. 324","measured milk value, used the bulk d13C value"
+Animal Milk ,raw goat milk skimmed,modern,-24,4.7,"Garvie-Lok 2001, pg. 324","measured milk value, used the bulk d13C value"
+Barley Mash,barley average,modern,-23.8,2,"Garvie-Lok 2001, pg. 338",a survey of barley from many different studies
+Millet Mash,millet average,modern,-9.8,2,"Garvie-Lok 2001, pg. 338",a survey of millet and maize from many different studies
+Mutton Broth,sheep.goat,archaeological,-19.9,3.3,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-19.8,11.7,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-19.2,3.9,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-20.1,8.0,"Garvie-Lok 2001, pg. 311",mu
+Mutton Broth,sheep.goat,archaeological,-19.9,9.3,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-19.7,3.9,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-19.5,4.2,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-19.4,5.6,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-19.0,7.3,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Mutton Broth,sheep.goat,archaeological,-19.9,3.7,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Pork Broth,pig,archaeological,-20.9,6.4,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Pork Broth,pig,archaeological,-20.3,4.5,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Pork Broth,pig,archaeological,-18.9,9.1,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Pork Broth,pig,archaeological,-19.6,4.0,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Pork Broth,pig,archaeological,-20.8,6.4,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Pork Broth,pig,archaeological,-21.1,6.2,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Beef Broth,cow,archaeological,-21.1,4.6,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Beef Broth,cow,archaeological,-19.9,6.3,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Beef Broth,cow,archaeological,-19.9,6.7,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Beef Broth,cow,archaeological,-19.9,6.4,"Garvie-Lok 2001, pg. 311",archaeological faunal bone samples
+Beef Broth,cow,modern,-21.4,5.1,"Dotsika 2019, table 3",modern cow
+Beef Broth,cow,modern,-20.9,4.8,"Dotsika 2019, table 3",modern cow
+Beef Broth,cow,modern,-21.2,5.3,"Dotsika 2019, table 3",modern cow
+Honey,Chalkidiki,modern,-25.1,1.8,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,"Vitina, Arkadia",modern,-24.9,1.8,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Sparti,modern,-25.9,1.6,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Sparti,modern,-26,1.6,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Sparti,modern,-25.6,1.8,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Sparti,modern,-26.1,2,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Kithira,modern,-26.1,2.1,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Kithira,modern,-26.3,2.1,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Kithira,modern,-27,1.9,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
+Honey,Attiki,modern,-25.4,1.3,"Dotsika 2019, table 3","apparently honey does have lipids, but who knows if they are really different than the carb or protein fraction"
