@@ -8,3 +8,4 @@
 ##Supplemental File B contains the KS and Wilcox test results (which you can also view in the R script)
 
 ##Please let me know if you run into any issues, I would be happy to troubleshoot
+##jstamer@asu.edu
